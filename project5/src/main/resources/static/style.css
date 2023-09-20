@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+#row1{
+    height: 35px;
+    background-color: #303030;
+    color: white;
+}
+
+#row1-2 a{
+    margin-left: 2%;
+}
+#nav1{
+    margin-left: 40%;
+}
+#ic1{
+ 
+    margin: 2%;
+}
+#row2-1 img{
+    margin-left: 10%;
+}
+#menu1 a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-right: 10%
+    
+}
+#menu2{
+    margin-top: 5%;
+    width: 80%;
+}
+#row3-1{
+    height: 70px;
+    background-color: gainsboro;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+nav h4{
+    color: black;
+    font-family: 'Times New Roman'
+}
+#row5-1{
+    float: left; text-align: center;
+}
+#row5-2{
+    float: right; text-align: center;
+}
+
